@@ -1,4 +1,5 @@
-import './assets/main.scss'
+import './assets/styles.css'
+import './assets/sticky-footer-navbar.css'
 
 import { createApp } from 'vue'
 import App from './App.vue'
